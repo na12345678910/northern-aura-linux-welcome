@@ -1,0 +1,137 @@
+# Translators:
+# Sebastian Cygan <sebcyg@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sebastian Cygan <sebcyg@gmail.com>, 2017\n"
+"Language-Team: Polish (https://www.transifex.com/ubuntu-budgie/teams/72251/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: community.html:13
+msgid "Community"
+msgstr "Społeczność"
+
+#: community.html:18
+msgid "Get Support"
+msgstr "Uzyskaj wsparcie"
+
+#: community.html:19
+msgid ""
+"To get support for <span name=\"distro-name\"></span> specific issues, the "
+"<span name=\"distro-name\"></span> Discourse website is the best place to "
+"go. You can raise issues and help other members of our growing community."
+msgstr ""
+"W celu uzyskania wsparcia dla <span name=\"distro-name\"></span> konkretnych"
+" problemów, najlepiej udać się na stronę <span name=\"distro-name\"></span> "
+"Discourse. Możesz zgłosić problemy i pomagać innym członkom naszej rosnącej "
+"społeczności."
+
+#: community.html:21
+msgid ""
+"It appears you are not connected to the Internet. Please check your "
+"connection to access this content."
+msgstr ""
+"Prawdopodobnie nie jesteś podłączony do internetu. Sprawdź Twoje połączenie,"
+" aby uzyskać dostęp do tych treści."
+
+#: community.html:22
+msgid "Sorry, Welcome was unable to establish a connection."
+msgstr "Przepraszamy, nie było możliwości nawiązania połączenia."
+
+#: community.html:23
+msgid "Retry"
+msgstr "Ponów"
+
+#: community.html:31
+msgid ""
+"An alternative way to get in touch is via our official IRC (Internet Relay "
+"Chat) channel."
+msgstr ""
+"Alternatywnym sposobem, aby skontaktować się z nami jest użycie oficjalnego "
+"kanału IRC (Internet Relay Chat)."
+
+#: community.html:33
+msgid ""
+"If you disconnect from the channel you will not receive a notification of "
+"any reply. So either leave an IRC session open - or we recommend connecting "
+"to all ubuntu IRC channels via an IRC bouncer."
+msgstr ""
+"Jeżeli odłączysz się od naszego kanału, nie będziesz otrzymywać powiadomień "
+"o udzielanych odpowiedziach. Dlatego albo pozostaw otwartą sesję IRC albo "
+"rekomendujemy połączenia się ze wszystkimi kanałami IRC poprzez skrzynkę "
+"IRC."
+
+#: community.html:38
+msgid "#Ubuntu-Budgie on FreeNode"
+msgstr "#Ubuntu-Budgie w serwisie FreeNode"
+
+#: community.html:46
+msgid "Forum"
+msgstr "Forum"
+
+#: community.html:47
+msgid ""
+"You can also get support for <span name=\"distro-name\"></span> through "
+"these official Ubuntu forums:"
+msgstr ""
+"Możesz również szukać pomocy <span name=\"distro-name\"></span> poprzez "
+"niżej wymienione fora Ubuntu:"
+
+#: community.html:57
+msgid "Social Networks"
+msgstr "Sieci społecznościowe"
+
+#: community.html:58
+msgid ""
+"<span name=\"distro-name\"></span> is active on the following social "
+"networks."
+msgstr ""
+"<span name=\"distro-name\"></span> jest dostępne w poniższych sieciach "
+"społecznościowych."
+
+#: community.html:67
+msgid "G+ Community"
+msgstr "Społeczność na G+"
+
+#: community.html:70
+msgid "G+ Page"
+msgstr "Strona na G+"
+
+#: community.html:80
+msgid "Facebook Group"
+msgstr "Grupa na Facebook'u"
+
+#: community.html:83
+msgid "Facebook Page"
+msgstr "Strona na Facebook'u"
+
+#: community.html:122
+msgid "Local Communities"
+msgstr "Społeczności lokalne"
+
+#: community.html:123
+msgid ""
+"In addition to global communities, <span name=\"distro-name\"></span> also "
+"encourages local communities to support users coming from diverse "
+"backgrounds. In this section, you can discover our local communities. If you"
+" are interested to manage a local community for <span name=\"distro-"
+"name\"></span> please let us know, so that we can list it here and improve "
+"its visibility."
+msgstr ""
+"Oprócz społeczności globalnych, <span name=\"distro-name\"></span> zachęca "
+"również lokalne społeczności do wspierania użytkowników pochodzących z "
+"różnych środowisk. W tej sekccji możesz odkryc lokalne społeczności. Jeżeli "
+"jesteś zainteresowany zarządzaniem lokalną społecznością <span name"
+"=\"distro-name\"></span>, daj nam znać, abyśmy mogli ją tutaj wyświetlić i "
+"poprawić jej widoczność."
+
+#: community.html137, 145
+msgid "Ubuntu Budgie Brasil"
+msgstr "Ubuntu Budgie Brasil"

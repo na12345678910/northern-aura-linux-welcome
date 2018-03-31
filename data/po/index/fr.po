@@ -1,0 +1,116 @@
+# Translators:
+# Emmanuel Hermellin <hermellin@lirmm.fr>, 2017
+# Arkelis <guillaume2.fayard@wanadoo.fr>, 2017
+# Scott <theatlantis394@gmail.com>, 2017
+# Julien Robert, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Julien Robert, 2017\n"
+"Language-Team: French (https://www.transifex.com/ubuntu-budgie/teams/72251/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: index.html:12
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: index.html:22
+msgid "Choose an option to discover your new operating system."
+msgstr ""
+"Choisissez une option afin de découvrir votre nouveau système "
+"d'exploitation."
+
+#: index.html:33
+msgid "Introduction"
+msgstr "Introduction"
+
+#: index.html:39
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: index.html:45
+msgid "Getting Started"
+msgstr "Pour bien commencer"
+
+#: index.html:51
+msgid "Installation Help"
+msgstr "Aide pour l'installation"
+
+#: index.html:57
+msgid "Recommendations"
+msgstr "Recommandations"
+
+#: index.html:74
+msgid "Online Store"
+msgstr "Boutique en ligne"
+
+#: index.html:80
+msgid "Community"
+msgstr "Communauté"
+
+#: index.html:86
+msgid "Get Involved"
+msgstr "Contribuer"
+
+#: index.html:92
+msgid "Donate"
+msgstr "Faire un don"
+
+#: index.html:101
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: index.html:106
+msgid "Install Software"
+msgstr "Installer Logiciels"
+
+#: index.html:108
+msgid "Budgie Applets"
+msgstr "Applets Budgie"
+
+#: index.html:109
+msgid "Software Center"
+msgstr "Logiciels"
+
+#: index.html:110
+msgid "Snap Apps"
+msgstr "Applications Snap"
+
+#: index.html:111
+msgid "Flatpak Apps"
+msgstr "Applications Flatpak"
+
+#: index.html:117
+msgid "Default Settings"
+msgstr "Paramètres par défaut"
+
+#: index.html:127
+msgid "Get Support:"
+msgstr "Demander de l'aide :"
+
+#: index.html:139
+msgid "G+ Community"
+msgstr "Communauté G+"
+
+#: index.html:142
+msgid "G+ Page"
+msgstr "Page G+"
+
+#: index.html:151
+msgid "Facebook Group"
+msgstr "Groupe Facebook"
+
+#: index.html:154
+msgid "Facebook Page"
+msgstr "Page Facebook"
+
+#: index.html:162
+msgid "Reddit"
+msgstr "Reddit"

@@ -1,0 +1,404 @@
+# Translators:
+# Emmanuel Hermellin <hermellin@lirmm.fr>, 2017
+# Jean-Charles SPOR <jean-charles.spor@hotmail.fr>, 2017
+# Louis Dupont <timmsn@hotmail.fr>, 2017
+# Scott <theatlantis394@gmail.com>, 2017
+# Arkelis <guillaume2.fayard@wanadoo.fr>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Arkelis <guillaume2.fayard@wanadoo.fr>, 2018\n"
+"Language-Team: French (https://www.transifex.com/ubuntu-budgie/teams/72251/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: recommendations.html:15
+msgid "Recommendations"
+msgstr "Recommandations"
+
+#: recommendations.html26, 71, 85, 102, 115, 132, 147
+msgid "Applying Changes..."
+msgstr "Application des changements..."
+
+#: recommendations.html:35
+msgid ""
+"<strong>Snap</strong> is a new generation application packaging format "
+"developed by <em>Canonical</em>. Even though it was initially developed just"
+" for different Ubuntu platforms, currently it works in many other GNU/Linux "
+"distributions. It will help application developers to provide a unified "
+"package that can work on different platforms. By using snap package format, "
+"applications can have their own version of libraries and there is no need to"
+" worry about libraries installed in underlying operating system. Snap "
+"packages enable developers to bring much newer versions of apps to <span "
+"name=\"distro-name\"></span>. Newer versions of KDE, GNOME, browsers or "
+"other desktop environment apps will usually build easily on older LTS "
+"releases but the complexities of packaging and providing updates have "
+"prevented us from delivering them in the past."
+msgstr ""
+"<strong>Snap</strong> est un gestionnaire de paquets nouvelle génération "
+"développé par <em>Canonical</em>. Bien qu'il soit développé à la base "
+"uniquement pour Ubuntu, Snap fonctionne maintenant dans de nombreuses "
+"distributions GNU/Linux. Snap va aider les développeurs d'applications à "
+"fournir un paquet unifié qui peut fonctionner sur différentes plates-formes."
+" En utilisant les paquets Snap, les logiciels peuvent posséder leur propre "
+"version des librairies nécessaires à leurs fonctionnements sans se "
+"préoccuper des dépendances ou des librairies déjà installées sur le système "
+"d'exploitation. Les paquets Snap autorisent donc les développeurs à mettre à"
+" disposition de nouvelles versions de leur logiciel plus rapidement dans "
+"<span name=\"distro-name\"></span>. Ainsi, les nouvelles versions de KDE, "
+"GNOME ou d'autres environnements de bureau vont pouvoir être plus facilement"
+" compilées sur les anciennes versions LTS des distributions Ubuntu, ce qui "
+"n'était pas forcément possible avant du fait de la complexité de l'ancien "
+"gestionnaire de paquets et des processus de mises à jour."
+
+#: recommendations.html:41
+msgid "Snap user guide"
+msgstr "Guide d'utilisation du gestionnaire de paquets Snap"
+
+#: recommendations.html:43
+msgid "Search Snap Apps"
+msgstr "Rechercher des applications Snap"
+
+#: recommendations.html:44
+msgid ""
+"If there’s a barrier to Snap app adoption (aside from few apps being made "
+"available in the format) it’s knowing which packages are available in the "
+"Snap app store. Well, wonder not. Simply pop open a terminal and run the "
+"following command:"
+msgstr ""
+"S'il y a un obstacle à l'adoption des paquets Snap, c'est de savoir quels "
+"sont justement les paquets disponibles dans ce format dans le centre de "
+"logiciels Snap. Pour le savoir, il suffit simplement d'ouvrir un terminal et"
+" d'exécuter la commande suivante:"
+
+#: recommendations.html:48
+msgid ""
+"The find command lets you quickly search for and discover snaps available to"
+" install from the command line. It can be run with a query after it (e.g., "
+"‘snap find email‘, ‘snap find media’, ‘snap find messaging‘) or without."
+msgstr ""
+"La commande find vous permet de rechercher rapidement et de découvrir les "
+"snaps disponibles et installables à partir de la ligne de commande. Elle "
+"peut être exécutée avec une requête en complément (ex: ‘snap find email‘, "
+"‘snap find media’, ‘snap find messaging‘) ou sans."
+
+#: recommendations.html:49
+msgid "When run without a query you’ll instead see a list of featured snaps."
+msgstr "Exécutée sans requête, la commande affichera une liste de Snaps."
+
+#: recommendations.html:50
+msgid "See installed apps"
+msgstr "Voir les applications installées"
+
+#: recommendations.html:51
+msgid ""
+"Installed some Snaps but can’t remember what? Don’t panic. Use the list "
+"command to see an up-to-date list of all Snap apps installed on your system:"
+msgstr ""
+"Vous avez installé des paquets Snap mais vous ne vous rappelez plus lesquels"
+" ? Pas de panique. Utilisez la commande list pour voir une liste à jour de "
+"toutes les applications Snap installées sur votre système :"
+
+#: recommendations.html:53
+msgid ""
+"This list also shows you their version number, revision number and the name "
+"of the developer who uploaded it (handy when there are multiple versions of "
+"the same app in the store, e.g., Telegram)."
+msgstr ""
+"Cette liste vous montre également le numéro de version, le numéro de "
+"révision et le nom du développeur qui l'a téléversé (pratique lorsqu'il "
+"existe plusieurs versions de la même application dans le centre des "
+"logiciels)."
+
+#: recommendations.html:54
+msgid "Install & Remove Snap Apps"
+msgstr "Installer et supprimer des paquets Snap"
+
+#: recommendations.html:55
+msgid ""
+"If you’re used to managing software using apt you’ll instantly find the "
+"analogous snap commands easy to remember. You install snap apps with the "
+"‘install’ command, and remove them using the ‘remove’ command."
+msgstr ""
+"Si vous avez l'habitude de gérer vos logiciels à l'aide d'apt, vous "
+"trouverez de manière intuitive les commandes analogues pour le faire avec "
+"Snap. Ainsi, vous installez des applications grâce à la commande "
+"'installer', et supprimez ces applications en utilisant la commande "
+"'supprimer'."
+
+#: recommendations.html:58
+msgid "See details of an App"
+msgstr "Voir les détails d'une application"
+
+#: recommendations.html:59
+msgid ""
+"You can use this to see detailed information about any snap application, "
+"whether it is installed or not. This info includes the application’s release"
+" channel, confinement status, size, number of revisions, and more. The snap "
+"info --verbose offers a greater overview."
+msgstr ""
+"Vous pouvez utiliser ceci pour voir des informations détaillées sur toute "
+"application Snap, installée ou non. Ces informations comprennent le canal de"
+" diffusion de l'application, son état de confinement, sa taille, son nombre "
+"de révisions et plus encore. L'option --verbose offre une meilleure vue "
+"d'ensemble."
+
+#: recommendations.html:63
+msgid "Update a Snap App"
+msgstr "Mettre à jour une application Snap"
+
+#: recommendations.html:65
+msgid ""
+"Rather helpfully you probably won’t ever need to remember to install an "
+"update to a Snap app. This is because Snapd runs in the background and "
+"handles updates automatically (you can, ofc, revert a Snap update or install"
+" a specific revision)."
+msgstr ""
+"Plutôt utile, vous n'aurez probablement jamais à vous souvenir d'installer "
+"une mise à jour d'une application Snap. Cela s'explique par le fait que "
+"Snapd s'exécute en arrière-plan et gère les mises à jour automatiquement "
+"(vous pouvez si besoin rétablir une mise à jour Snap ou installer une "
+"révision spécifique)."
+
+#: recommendations.html:68
+msgid "Reference"
+msgstr "Référence"
+
+#: recommendations.html:70
+msgid "Snap is already installed"
+msgstr "Snap est déjà installé"
+
+#: recommendations.html:70
+msgid "Install Snap"
+msgstr "Installer Snap"
+
+#: recommendations.html:76
+msgid "Budgie Screenshot Applet"
+msgstr "Applet Budgie de capture d'écran"
+
+#: recommendations.html:80
+msgid ""
+"<strong>Budgie Screenshot Applet</strong> is an advanced screenshot utility "
+"for capturing and organizing screenshots."
+msgstr ""
+"L'<strong>Applet de Capture d'Écran Budgie</strong> est un outils avancé de "
+"capture et d'organisation de captures d'écran."
+
+#: recommendations.html:82
+msgid ""
+"<span name=\"distro-name\"></span> provides you with an easy way to install "
+"<strong>Budgie Screenshot Applet</strong>. After installation you need to "
+"<strong>manually add the applet to budgie panel by launching <a "
+"onclick=\"cmd('raven');cmd('')\">Raven</a> </strong> - The Budgie "
+"Configuration Center."
+msgstr ""
+"<span name=\"distro-name\"></span> vous fournit un moyen simple d'installer "
+"l'<strong>Applet de capture d'écran Budgie</strong>. Après l'installation, "
+"vous devez <strong> ajouter manuellement l'applet au panneau Budgie en "
+"lançant <a onclick=\"cmd('raven');cmd('')\">Raven</a> </strong> - Le centre "
+"de configuration Budgie."
+
+#: recommendations.html:84
+msgid "Screenshot Applet is installed"
+msgstr "L'applet de capture d'écran est installé"
+
+#: recommendations.html:84
+msgid "Install Screenshot Applet"
+msgstr "Installer l'applet de capture d'écran"
+
+#: recommendations.html:90
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: recommendations.html:94
+msgid ""
+"<strong>Flatpak</strong> is a new generation application distribution "
+"framework for GNU/Linux platforms. It introduces a unified packaging format "
+"across all GNU/Linux distributions. That means a single package can work on "
+"any platform. Flatpak helps application developers to ship their application"
+" in a single format which can be installed in any GNU/Linux distribution "
+"without worrying about the underlying operating system and its built-in "
+"libraries."
+msgstr ""
+"<strong>Flatpak</strong> est un framework de distribution d'applications de "
+"nouvelle génération pour les plates-formes GNU/Linux. Il introduit un format"
+" d'emballage unifié sur toutes les distributions GNU/Linux. Cela signifie "
+"qu'un seul paquet peut fonctionner sur n'importe quelle plate-forme. Flatpak"
+" aide les développeurs d'applications à fournir leur application dans un "
+"seul format qui peut être installé sur n'importe quelle distribution "
+"GNU/Linux sans se soucier du système d'exploitation sous-jacent et de ses "
+"bibliothèques intégrées."
+
+#: recommendations.html:96
+msgid "Learn more"
+msgstr "En apprendre plus"
+
+#: recommendations.html:98
+msgid ""
+"<span name=\"distro-name\"></span> recommends installing "
+"<strong>Flatpak</strong> as it will open a new world of possibilities for "
+"you. With Flatpak, you can enjoy the latest release of different software "
+"packages as soon as it is packaged by the upstream project and you don't "
+"have to wait for your distribution to package it for you."
+msgstr ""
+"<span name=\"distro-name\"></span> recommande d'installer "
+"<strong>Flatpak</strong> car il vous ouvrira un nouveau monde de "
+"possibilités. Avec Flatpak, vous pouvez profiter de la dernière version de "
+"différents logiciels dès qu'elle est fournie par l'éditeur, vous n'avez pas "
+"à attendre la compatibilité avec votre distribution."
+
+#: recommendations.html:100
+msgid ""
+"Being a user friendly GNU/Linux distribution, <span name='distro-"
+"name'></span> allows you to install Flatpak with a single click. After first"
+" time configuration, you can use GNOME Software to install Flatpak packages."
+msgstr ""
+"En tant que distribution GNU/Linux conviviale, <span name='distro-"
+"name'></span> vous permet d'installer Flatpak en un seul clic. Après la "
+"première configuration, vous pourrez utiliser GNOME pour installer des "
+"paquets Flatpak."
+
+#: recommendations.html:101
+msgid "Flatpak is installed. Please reboot for the service to start"
+msgstr ""
+"Flatpak est installé. Le lancement du service nécessite un redémarrage."
+
+#: recommendations.html:102
+msgid "Install & Configure Flatpak"
+msgstr "Installer et configurer Flatpak"
+
+#: recommendations.html:106
+msgid "skippy-xd"
+msgstr "skippy-xd"
+
+#: recommendations.html:110
+msgid ""
+"<strong>skippy-xd</strong> adds a window expose type capability through a "
+"keyboard shortcut. For most desktops skippy-xd works well. Note: For some "
+"multi-monitor setups, graphics drivers and within virtual machines such as "
+"VirtualBox it may not work correctly."
+msgstr ""
+"<strong>skippy-xd</strong> ajoute une fonctionnalité pour exposer les "
+"fenêtres via un raccourci clavier. Pour la plupart des postes de travail, "
+"skippy-xd fonctionne bien. Remarque: pour certaines configurations multi-"
+"moniteurs, pilotes graphiques et dans les machines virtuelles telles que "
+"VirtualBox, cela peut ne pas fonctionner correctement."
+
+#: recommendations.html:113
+msgid ""
+"By default the installer will create a custom keyboard shortcut CTRL+grave "
+"('the key above the tab'). You can define or change the keyboard shortcut "
+"through the Settings - Keyboard - Custom Shortcuts option. Use the command "
+"<strong>skippy-xd-toggle</strong> when defining your own custom keyboard "
+"shortcut."
+msgstr ""
+"Par défaut, le programme d'installation créera un raccourci clavier CTRL + "
+"Tab. Vous pouvez définir ou modifier le raccourci clavier en vous rendant "
+"dans Paramètres - Clavier - Raccourcis personnalisés. Utilisez la commande "
+"<strong>skippy-xd-toggle</strong> lors de la définition de votre propre "
+"raccourci clavier personnalisé."
+
+#: recommendations.html:114
+msgid "skippy-xd is installed"
+msgstr "skippy-xd est installé"
+
+#: recommendations.html:114
+msgid "Install & Configure skippy-xd"
+msgstr "Installer et configurer skippy-xd"
+
+#: recommendations.html:120
+msgid "Steam"
+msgstr "Steam"
+
+#: recommendations.html:124
+msgid ""
+"<strong>Steam</strong> is a digital distribution platform developed by Valve"
+" Corporation offering digital rights management (DRM), multiplayer gaming "
+"and social networking services. Steam provides the user with installation "
+"and automatic updating of games on multiple computers, and community "
+"features such as friends lists and groups, cloud saving, and in-game voice "
+"and chat functionality. The software provides a freely available application"
+" programming interface (API) called Steamworks, which developers can use to "
+"integrate many of Steam's functions into their products, including "
+"networking, matchmaking, in-game achievements, micro-transactions, and "
+"support for user-created content through Steam Workshop."
+msgstr ""
+"<strong>Steam</strong> est une plate-forme de distribution numérique "
+"développée par Valve Corporation offrant des services de gestion de droits "
+"numériques (DRM), de jeux multijoueurs et de réseaux sociaux. Steam fournit "
+"à l'utilisateur une installation et une mise à jour automatique des jeux sur"
+" plusieurs ordinateurs et des fonctionnalités communautaires telles que les "
+"listes et les groupes d'amis, la sauvegarde cloud et la fonctionnalité de "
+"voix et de chat dans le jeu. Le logiciel fournit une interface de "
+"programmation d'applications (API) librement disponible appelée Steamworks, "
+"que les développeurs peuvent utiliser pour intégrer plusieurs fonctions de "
+"Steam dans leurs produits, y compris la mise en réseau, l'association, les "
+"succès dans le jeu, les micro-transactions et le support pour le contenu "
+"créé par l'utilisateur par le biais de Steam Workshop."
+
+#: recommendations.html:129
+msgid ""
+"Being proprietary software, Steam is not included in the primary "
+"repositories of <span name=\"distro-name\"></span>. However, to provide more"
+" choice to users, Steam is shipped as a part of the <em>Multiverse</em> "
+"repository. <span name=\"distro-name\"></span> provides you the option to "
+"enable the <em>Multiverse</em> repository and to install Steam with a single"
+" mouse click."
+msgstr ""
+"Steam est un logiciel propriétaire et n'est donc pas inclus dans les dépôts "
+"primaires de <span name=\"distro-name\"></span>. Toutefois, pour fournir "
+"plus de choix aux utilisateurs, Steam est accessible par le dépôt "
+"<em>Multiverse</em>. <span name=\"distro-name\"></span> vous offre l'option "
+"d'activer le dépôt <em>Multiverse</em> et d'installer Steam en un seul clic."
+
+#: recommendations.html:131
+msgid "Steam is installed"
+msgstr "Steam est installé"
+
+#: recommendations.html:131
+msgid "Install & Configure Steam"
+msgstr "Installer et configurer Steam"
+
+#: recommendations.html:141
+msgid ""
+"<strong>Dropbox</strong> is a secure file sharing and storage solution."
+msgstr ""
+"<strong>Dropbox</strong> est un système sécurisé d'échange et de stockage de"
+" fichiers."
+
+#: recommendations.html:143
+msgid ""
+"Being proprietary software, Dropbox is not included in the primary "
+"repositories of <span name=\"distro-name\"></span>. However, to provide more"
+" choice to users, Dropbox is shipped as a part of the <em>Multiverse</em> "
+"repository. <span name=\"distro-name\"></span> provides you the option to "
+"enable the <em>Multiverse</em> repository and to install Dropbox with a "
+"single mouse click."
+msgstr ""
+"Dropbox est un logiciel propriétaire et n'est donc pas inclus dans les "
+"dépôts primaires de <span name=\"distro-name\"></span>. Toutefois, pour "
+"fournir plus de choix aux utilisateurs, Dropbox est accessible par le dépôt "
+"<em>Multiverse</em>. <span name=\"distro-name\"></span> vous offre l'option "
+"d'activer le dépôt <em>Multiverse</em> et d'installer Dropbox en un seul "
+"clic."
+
+#: recommendations.html:145
+msgid ""
+"After installing, logout and login and follow the dropbox instructions that "
+"are then displayed."
+msgstr ""
+"Après l'installation, reconnectez-vous et suivez les instructions affichées."
+
+#: recommendations.html:146
+msgid "Dropbox is installed"
+msgstr "Dropbox est installé"
+
+#: recommendations.html:146
+msgid "Install & Configure Dropbox"
+msgstr "Installer et configurer Dropbox"

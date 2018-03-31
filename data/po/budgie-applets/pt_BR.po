@@ -1,0 +1,228 @@
+# Translators:
+# Willian Eduardo <willianeduardot@gmail.com>, 2017
+# João Mário Domingos <joaomario.rd@hotmail.com>, 2017
+# Lucas Dias <lucasdiaas@outlook.com>, 2017
+# Christian Weber <ccarloswo@gmail.com>, 2017
+# Francisco Edno <ednofco@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: Budgie Welcome\n"
+"POT-Creation-Date: 2016-02-27 12:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Francisco Edno <ednofco@gmail.com>, 2017\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/ubuntu-budgie/teams/72251/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Report-Msgid-Bugs-To : you@example.com\n"
+
+#: budgie-applets.html:13
+msgid "Budgie Desktop Applets"
+msgstr "Applets do Budgie"
+
+#: budgie-applets.html:15
+msgid ""
+"Logout and login after installing applets. Open Raven - Budgie Settings - "
+"Panel to add applets"
+msgstr ""
+"Após instalar os applets faça logout e de novo login. Para instalar applets,"
+" abra o Raven - Definições do Budgie - Painel."
+
+#: budgie-applets.html:20
+msgid "Haste Applet"
+msgstr "Applet de Notas"
+
+#: budgie-applets.html:25
+msgid ""
+"Post any text – be it code or prose – to various services directly from your"
+" desktop."
+msgstr ""
+"Publique qualquer texto - seja ele prosa ou código - em qualquer serviço web"
+" diretamente do seu desktop."
+
+#: budgie-applets.html29, 51, 73, 95, 117, 139, 161, 183, 205, 227, 249, 271,
+#: 293, 315, 337, 359, 381, 403, 425, 447
+msgid "Remove"
+msgstr "Remova"
+
+#: budgie-applets.html32, 54, 76, 98, 120, 142, 164, 186, 208, 230, 252, 274,
+#: 296, 318, 340, 362, 384, 406, 428, 450
+msgid "Install Applet"
+msgstr "Instalar Applet"
+
+#: budgie-applets.html35, 57, 79, 101, 123, 145, 167, 189, 211, 233, 255, 277,
+#: 299, 321, 343, 365, 387, 409, 431, 453
+msgid "Applying Changes..."
+msgstr "A aplicar as alterações..."
+
+#: budgie-applets.html:42
+msgid "Screenshot Applet"
+msgstr "Applet de Captura de tela"
+
+#: budgie-applets.html:47
+msgid ""
+"An advanced screenshot utility for capturing and organizing screenshots."
+msgstr ""
+"Um aplicativo avançado que lhe permite salvar e organizar as capturas de "
+"tela."
+
+#: budgie-applets.html:64
+msgid "Calendar Applet"
+msgstr "Applet de Calendário"
+
+#: budgie-applets.html:69
+msgid "Show date and time and when clicked show a calendar in a popover."
+msgstr ""
+"Mostra informação sobre a data e as horas, quando clicar irá mostrar um "
+"calendário num popup."
+
+#: budgie-applets.html:86
+msgid "Brightness Control Applet"
+msgstr "Applet de controle de iluminação"
+
+#: budgie-applets.html:91
+msgid "Allows you to control the screen brightness."
+msgstr "Permite-lhe controlar a iluminação."
+
+#: budgie-applets.html:108
+msgid "Pixel-Saver Applet"
+msgstr "Applet de Maximixação de Espaço"
+
+#: budgie-applets.html:113
+msgid ""
+"Hides the title bar from maximized windows and creates a new one inside the "
+"panel."
+msgstr ""
+"Esconde a barra de titulo quando se maximiza uma janela. Cria uma barra de "
+"titulo no painel."
+
+#: budgie-applets.html:130
+msgid "Global Menu Applet"
+msgstr "Applet Menu Global"
+
+#: budgie-applets.html:135
+msgid "Moves the menu from applications into the panel."
+msgstr "Move o menu das aplicações para o painel."
+
+#: budgie-applets.html:152
+msgid "Weather Applet"
+msgstr "Applet de Clima"
+
+#: budgie-applets.html:157
+msgid "Displays the weather on your panel."
+msgstr "Mostra o clima no seu painel."
+
+#: budgie-applets.html:174
+msgid "System Monitor Applet"
+msgstr "Applet de Sistema de monitoração"
+
+#: budgie-applets.html:179
+msgid "Customize and display system information on the panel."
+msgstr "Personalize e exiba informações do sistema no painel."
+
+#: budgie-applets.html:196
+msgid "Hotcorners Applet"
+msgstr "Applet de Atalho de cantos"
+
+#: budgie-applets.html:201
+msgid ""
+"Allow user defined commands to be executed when the mouse cursor is pushed "
+"into a corner of the main desktop."
+msgstr ""
+"Permita ao usuário definir comandos para serem executados quando o cursos do"
+" mouse encostar na borda na Área de trabalho principal."
+
+#: budgie-applets.html:218
+msgid "Quicknote Applet"
+msgstr "Applet de anotação"
+
+#: budgie-applets.html:223
+msgid "Quickly record a text based note."
+msgstr "Grave rapidamente uma nota baseada em texto."
+
+#: budgie-applets.html:240
+msgid "Previews Applet"
+msgstr "Applet de Pre-visualização"
+
+#: budgie-applets.html:245
+msgid "Show an overview of windows in an exposé like way."
+msgstr "Mostre uma visão geral das janelas de uma maneira exposta."
+
+#: budgie-applets.html:262
+msgid "Workspace Overview Applet"
+msgstr "Applet de Visão Geral do Espaço de Trabalho"
+
+#: budgie-applets.html:267
+msgid "Quickly navigate workspaces using the applet's menu."
+msgstr ""
+"Navegue rapidamente entre os espaços de trabalho usando o menu do applet."
+
+#: budgie-applets.html:284
+msgid "Workspace Wallpaper Applet"
+msgstr "Applet de Papel de Parede do Espaço de Trabalho"
+
+#: budgie-applets.html:289
+msgid "Show a different wallpaper on each workspace."
+msgstr "Mostre diferentes papeis de parede em cada espaço de trabalho."
+
+#: budgie-applets.html:306
+msgid "Window Mover Applet"
+msgstr "Applet de Mover Janela"
+
+#: budgie-applets.html:311
+msgid "Quickly move windows between workspaces."
+msgstr "Mova rapidamente as janelas entre os espaços de trabalho."
+
+#: budgie-applets.html:328
+msgid "Desktop Showtime Applet"
+msgstr "Applet de Mostrar Hora na Área de Trabalho"
+
+#: budgie-applets.html:333
+msgid "Display the date and time on the Desktop."
+msgstr "Exiba a data e a hora na Área de trabalho."
+
+#: budgie-applets.html:350
+msgid "CountDown Applet"
+msgstr "Applet de Contagem Regressiva"
+
+#: budgie-applets.html:355
+msgid "Set a timed countdown and run an action when the countdown completes."
+msgstr ""
+"Determine uma contagem regressiva e execute uma ação quando a contagem for "
+"concluída."
+
+#: budgie-applets.html:372
+msgid "Auto-Keyboard Switcher Applet"
+msgstr "Applet de Troca Automática de Teclado"
+
+#: budgie-applets.html:377
+msgid "Change the keyboard language automatically on a per application basis."
+msgstr "Altere o idioma do teclado automaticamente com base na aplicação."
+
+#: budgie-applets.html:394
+msgid "Screen Rotation Lock Applet"
+msgstr "Applet de Bloqueia Rotação da Tela"
+
+#: budgie-applets.html:399
+msgid "Add the ability to unlock or lock the screen from rotating."
+msgstr "Adicione a capacidade de desbloquear ou bloquear a rotação da tela."
+
+#: budgie-applets.html:416
+msgid "Clockworks Applet"
+msgstr "Applet de Múltiplos Relógios"
+
+#: budgie-applets.html:421
+msgid "Display the time across multiple time zones."
+msgstr "Mostra a hora em vários fusos horários."
+
+#: budgie-applets.html:438
+msgid "DropBy Applet"
+msgstr "DropBy Applet"
+
+#: budgie-applets.html:443
+msgid "Display a pop-up in the panel when a USB device is connected."
+msgstr ""
+"Exibir uma janela pop-up no painel quando um dispositivo USB estiver "
+"conectado."
