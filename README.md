@@ -20,4 +20,4 @@ sudo chmod +x ./budgie-welcome && sudo chmod +x ./budgie-welcome-privileged-acti
 
 This is work in development!
 
-This work is licenced under GPL v3+
+This work is licenced under GPL v3+, yet anything in /data/img/applications is under Creative Commons, and its owner is Canonical. It does not belong to me.
